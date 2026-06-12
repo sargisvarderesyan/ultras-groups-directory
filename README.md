@@ -4,6 +4,11 @@ Directory of all ultras groups and their associated clubs.
 
 If you spot any errors or missing groups, please feel free to contribute by posting an [issue](https://github.com/cjerzak/ultras-groups-directory/issues). 
 
+# Armenia
+
+## FAF Ultras(First Armenian Front) - National Team Ultras
+## South West Ultras - FC Urartu Ultras
+
 # Argentina
 
 ## River Plate (Buenos Aires)
